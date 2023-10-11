@@ -11,7 +11,7 @@ import { library } from '@fortawesome/fontawesome-svg-core';
 import { faUser, faShoppingCart, faHome } from '@fortawesome/free-solid-svg-icons';
 import AboutUs from './Pages/AboutUs';
 import CartPage from './Pages/CartPage';
-import { CartProvider } from './Components/CartContext';
+//import { CartProvider } from './Components/CartContext';
 import { AccountProvider } from './Components/AccountContext';
 import CreateLogin from './Pages/CreateLogin';
 import ReviewCart from './Pages/ReviewCart';
@@ -83,7 +83,7 @@ const Index = () => {
   return (
     <React.StrictMode>
       <AccountProvider>
-        <CartProvider>
+       {/* <CartProvider> */}
           <BrowserRouter>
             <Routes>
               <Route path="/" element={<HomePage />} />
@@ -117,7 +117,7 @@ const Index = () => {
               <Route path="/MemberCheckout" element={<MemberCheckout />} />
             </Routes>
           </BrowserRouter>
-        </CartProvider>
+      {/*  </CartProvider> */}
       </AccountProvider>
     </React.StrictMode>
   );
