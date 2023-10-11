@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e18f092.css",
-    "main.js": "/static/js/main.0de11c83.js",
-    "static/js/496.4eb1431f.chunk.js": "/static/js/496.4eb1431f.chunk.js",
-    "static/media/Anotha One.jpg": "/static/media/Anotha One.c96a0dc148e9804bf63f.jpg",
-    "static/media/Image 1.png": "/static/media/Image 1.2b8f8a5800e0f8af72a6.png",
-    "static/media/Distressed Brass Background.jpg": "/static/media/Distressed Brass Background.0519ce8c7de1f730846d.jpg",
-    "static/media/CC Logo.png": "/static/media/CC Logo.d7f275d4e7a955471214.png",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.1e18f092.css.map": "/static/css/main.1e18f092.css.map",
-    "main.0de11c83.js.map": "/static/js/main.0de11c83.js.map",
-    "496.4eb1431f.chunk.js.map": "/static/js/496.4eb1431f.chunk.js.map"
+    "main.css": "/Combat-Customs-QC/static/css/main.1f1dc65d.css",
+    "main.js": "/Combat-Customs-QC/static/js/main.eeb9ee9c.js",
+    "static/js/496.4eb1431f.chunk.js": "/Combat-Customs-QC/static/js/496.4eb1431f.chunk.js",
+    "static/media/Anotha One.jpg": "/Combat-Customs-QC/static/media/Anotha One.c96a0dc148e9804bf63f.jpg",
+    "static/media/Image 1.png": "/Combat-Customs-QC/static/media/Image 1.2b8f8a5800e0f8af72a6.png",
+    "static/media/Distressed Brass Background.jpg": "/Combat-Customs-QC/static/media/Distressed Brass Background.0519ce8c7de1f730846d.jpg",
+    "static/media/CC Logo.png": "/Combat-Customs-QC/static/media/CC Logo.d7f275d4e7a955471214.png",
+    "static/media/slick.svg": "/Combat-Customs-QC/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Combat-Customs-QC/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Combat-Customs-QC/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Combat-Customs-QC/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Combat-Customs-QC/index.html",
+    "main.1f1dc65d.css.map": "/Combat-Customs-QC/static/css/main.1f1dc65d.css.map",
+    "main.eeb9ee9c.js.map": "/Combat-Customs-QC/static/js/main.eeb9ee9c.js.map",
+    "496.4eb1431f.chunk.js.map": "/Combat-Customs-QC/static/js/496.4eb1431f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e18f092.css",
-    "static/js/main.0de11c83.js"
+    "static/css/main.1f1dc65d.css",
+    "static/js/main.eeb9ee9c.js"
   ]
 }
