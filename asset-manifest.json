@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Combat-Customs-QC/static/css/main.1f1dc65d.css",
-    "main.js": "/Combat-Customs-QC/static/js/main.96f543fe.js",
+    "main.js": "/Combat-Customs-QC/static/js/main.43079474.js",
     "static/js/496.4eb1431f.chunk.js": "/Combat-Customs-QC/static/js/496.4eb1431f.chunk.js",
     "static/media/Anotha One.jpg": "/Combat-Customs-QC/static/media/Anotha One.c96a0dc148e9804bf63f.jpg",
     "static/media/Image 1.png": "/Combat-Customs-QC/static/media/Image 1.2b8f8a5800e0f8af72a6.png",
@@ -13,11 +13,11 @@
     "static/media/slick.woff": "/Combat-Customs-QC/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Combat-Customs-QC/index.html",
     "main.1f1dc65d.css.map": "/Combat-Customs-QC/static/css/main.1f1dc65d.css.map",
-    "main.96f543fe.js.map": "/Combat-Customs-QC/static/js/main.96f543fe.js.map",
+    "main.43079474.js.map": "/Combat-Customs-QC/static/js/main.43079474.js.map",
     "496.4eb1431f.chunk.js.map": "/Combat-Customs-QC/static/js/496.4eb1431f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f1dc65d.css",
-    "static/js/main.96f543fe.js"
+    "static/js/main.43079474.js"
   ]
 }
